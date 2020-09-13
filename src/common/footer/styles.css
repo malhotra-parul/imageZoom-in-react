@@ -1,0 +1,32 @@
+.BottomBar {
+  height: 5vh;
+  margin: 0 auto;
+  background: #fbfbfe;
+  color: #1a0e45;
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 1em;
+}
+
+.copyright {
+  font-size: 1em;
+}
+
+.socialIcons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.socialLinks {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.image{
+    height: 2em;
+  width: 2em;
+}

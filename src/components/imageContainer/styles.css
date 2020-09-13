@@ -1,0 +1,6 @@
+.imageContainer{
+    height: calc(100% - 15vh - 1em);
+    width: 100vw;
+   
+    box-shadow: 0 7px 15px -8px rgba(25, 4, 69, 0.1);
+}
