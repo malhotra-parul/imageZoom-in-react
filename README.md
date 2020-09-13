@@ -1,8 +1,7 @@
 # Image Zoom
 
-[Visit Live Link here](https://activity-tracker-react.vercel.app/)
+[Visit Live Link here](https://image-zoom-in-react.vercel.app/)
 A tiny project app where you can hover over the image and the zoomed version will be displayed on the side.
-[Demo](https://image-zoom-in-react.vercel.app/)
 
 ## Features
 
